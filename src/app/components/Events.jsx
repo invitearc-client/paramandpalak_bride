@@ -218,6 +218,32 @@ export default function Events() {
         </div>
       </div> */}
 
+        <div className="relative flex flex-col text-center overflow-hidden rounded-2xl px-11 py-0 md:px-19 lg:px-13 md:mt-20 mt-12">
+        <div className="relative z-10 flex flex-col">
+          <div className="mt-8 flex flex-col items-center text-center md:mt-10">
+            <img
+              src="/assets/bride.webp"
+              alt="Wedding Logo"
+              className="w-[80px] sm:w-[150px] md:w-[200px]"
+            />
+          </div>
+          <h2 className="text-[#702B36] font-cormorant-garamond text-[28px] md:text-3xl lg:text-[50px] font-semibold">
+            Bride's Side
+          </h2>
+          <p className="text-[#702B36]  font-cormorant-garamond text-[16px] md:text-base mt-2 font-bold">
+            Manishkumarji omprakashji Sanghi, Ganeshpeth, Nagpur
+          </p>
+
+          <p className="text-[#702B36]  font-cormorant-garamond text-[16px] md:text-base mt-2">
+            Megha Plastics, Gandhi Gate, Mahal, Nagpur
+          </p>
+
+          <p className="text-[#702B36]  font-cormorant-garamond text-[16px] md:text-base mt-2">
+            Dosai South Indian Kitchen, Ganeshpeth, Nagpur
+          </p>
+        </div>
+      </div>
+
       <div className="relative flex flex-col text-center overflow-hidden rounded-2xl px-11 py-0 md:px-19 lg:px-13 md:mt-20 mt-8">
         <div className="relative z-10 flex flex-col md:mt-45 mt-10">
           <div className="mt-8 flex flex-col items-center text-center md:mt-10">
@@ -266,31 +292,7 @@ export default function Events() {
         </div>
       </div>
 
-      <div className="relative flex flex-col text-center overflow-hidden rounded-2xl px-11 py-0 md:px-19 lg:px-13 md:mt-20 mt-12">
-        <div className="relative z-10 flex flex-col">
-          <div className="mt-8 flex flex-col items-center text-center md:mt-10">
-            <img
-              src="/assets/bride.webp"
-              alt="Wedding Logo"
-              className="w-[80px] sm:w-[150px] md:w-[200px]"
-            />
-          </div>
-          <h2 className="text-[#702B36] font-cormorant-garamond text-[28px] md:text-3xl lg:text-[50px] font-semibold">
-            Bride's Side
-          </h2>
-          <p className="text-[#702B36]  font-cormorant-garamond text-[16px] md:text-base mt-2 font-bold">
-            Manishkumarji omprakashji Sanghi, Ganeshpeth, Nagpur
-          </p>
-
-          <p className="text-[#702B36]  font-cormorant-garamond text-[16px] md:text-base mt-2">
-            Megha Plastics, Gandhi Gate, Mahal, Nagpur
-          </p>
-
-          <p className="text-[#702B36]  font-cormorant-garamond text-[16px] md:text-base mt-2">
-            Dosai South Indian Kitchen, Ganeshpeth, Nagpur
-          </p>
-        </div>
-      </div>
+    
     </div>
   );
 }
