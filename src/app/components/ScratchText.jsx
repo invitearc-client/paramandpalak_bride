@@ -327,8 +327,8 @@ export default function ScratchText({ onReveal }) {
     >
       <div className="text-[#BC610A]">
         <div>
-          1<sup className="text-[15px]">st </sup>
-        December</div>
+          29<sup className="text-[15px]">th </sup>
+        November</div>
         <div>2026</div>
       </div>
     </div>
