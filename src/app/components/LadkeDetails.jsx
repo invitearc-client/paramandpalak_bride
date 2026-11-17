@@ -21,13 +21,13 @@ export default function LadkeDetails() {
         </p>
         <div className="mt-8 text-center">
           <h2 className="text-[#BC610A] great-vibes-regular text-center mt-14 md:text-4xl text-[38px] lg:text-[60px] leading-tight font-bold">
-            Param
+              Palak
           </h2>
 <p className="text-[#BC610A] font-cormorant-garamond lg:text-[30px] md:text-2xl text-[16px]">
-            (Gs/o Late Jamunadevi & Late Shri Rameshwardasji Lohiya)
+            (Gd/o Smt. Kamla Devi & Shri. Omprakashji Sanghi)
           </p>
           <p className="text-[#BC610A] font-cormorant-garamond lg:text-[30px] md:text-2xl mt-2 text-[16px]">
-            (S/o Smt. Jyoti & Deepak Lohiya)
+           (D/o Smt. Megha & Shri. Manish Sanghi)
           </p>
 
           <h2 className="text-[#BC610A] great-vibes-regular text-center text-[38px] sm:text-7xl lg:text-[60px] leading-tighter font-bold mt-2">
@@ -35,13 +35,13 @@ export default function LadkeDetails() {
               With
             </span>
             <br />
-            Palak
+            Param
           </h2>
 <p className="text-[#BC610A] font-cormorant-garamond lg:text-[30px] md:text-2xl text-[16px]">
-            (Gd/o Smt. Kamla Devi & Shri. Omprakashji Sanghi)
+           (Gs/o Late Jamunadevi & Late Shri Rameshwardasji Lohiya)
           </p>
           <p className="text-[#BC610A] font-cormorant-garamond lg:text-[30px] md:text-2xl mt-2 text-[16px]">
-            (D/o Smt. Megha & Shri. Manish Sanghi)
+            (S/o Smt. Jyoti & Deepak Lohiya)
           </p>
 
           <ScratchText onReveal={() => setRevealed(true)} />

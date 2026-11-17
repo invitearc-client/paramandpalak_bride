@@ -8,11 +8,10 @@ const days = [
 const requestNames = ["With Warm Regards"];
 
 const requestNames2 = [
-  "Prabhudayal, Kanhaiyalal",
-  "Suresh Kumar, Jagadish",
-  "Purushottam, Dipak",
+  "Omprakash, Manoj,  Manish",
+  
   "&",
-  " Lohiya Family",
+  "Sanghi Family",
 ];
 
 export default function Weather() {

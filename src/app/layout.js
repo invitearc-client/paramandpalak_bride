@@ -16,7 +16,7 @@ export const metadata= {
   metadataBase: new URL("https://paramandpalak1.vercel.app/"),
 
   openGraph: {
-    title: "Param & Palak Lohiya",
+    title: "Palak & Param Sanghi",
     description: "Join as they begin their forever. 29, 30 November & 1 December, 2026",
     url: "https://paramandpalak1.vercel.app/",
     siteName: "InviteArc",
@@ -34,7 +34,7 @@ export const metadata= {
 
   twitter: {
     card: "summary_large_image",
-    title: "Param & Palak",
+    title: "Palak & Param Sanghi",
     description: "Join as they begin their forever. 29, 30 November & 1 December, 2026",
     images: ["/og.jpg"],
   },
