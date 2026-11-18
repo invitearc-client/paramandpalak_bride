@@ -6,14 +6,14 @@ export default function Events() {
       id="itinerary"
       className="flex scroll-mt-6 flex-col justify-center mt-10 lg:mt-40 items-center"
     >
-      <p className="md:text-2xl text-[16px] text-[#BC610A] font-cormorant-garamond">
+      {/* <p className="md:text-2xl text-[16px] text-[#BC610A] font-cormorant-garamond">
         One days of celebration
-      </p>
+      </p> */}
       <h2
         className="text-[#BC610A] font-cormorant-garamond text-center
             md:text-5xl text-[30px] lg:text-[80px] leading-tight mt-2 font-semibold"
       >
-        Wedding Events
+        Wedding Reception
       </h2>
 
       <h2 className="text-white bg-[#BC610A] font-cormorant-garamond text-[20px] md:text-xl lg:text-[30px] mt-5 border px-6 py-2 rounded-xl">
@@ -99,7 +99,7 @@ export default function Events() {
             Bride's Side
           </h2>
           <p className="text-[#702B36]  font-cormorant-garamond text-[16px] md:text-base mt-2 font-bold">
-            Manishkumarji, Omprakashji Sanghi, Ganeshpeth, Nagpur
+            Manish Kumarji, Omprakashji Sanghi, Ganeshpeth, Nagpur
           </p>
 
           <p className="text-[#702B36]  font-cormorant-garamond text-[16px] md:text-base mt-2">
