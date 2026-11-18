@@ -7,7 +7,7 @@ export default function Events() {
       className="flex scroll-mt-6 flex-col justify-center mt-10 lg:mt-40 items-center"
     >
       <p className="md:text-2xl text-[16px] text-[#BC610A] font-cormorant-garamond">
-        Three days of celebration
+        One days of celebration
       </p>
       <h2
         className="text-[#BC610A] font-cormorant-garamond text-center
@@ -99,7 +99,7 @@ export default function Events() {
             Bride's Side
           </h2>
           <p className="text-[#702B36]  font-cormorant-garamond text-[16px] md:text-base mt-2 font-bold">
-            Manishkumarji omprakashji Sanghi, Ganeshpeth, Nagpur
+            Manishkumarji, Omprakashji Sanghi, Ganeshpeth, Nagpur
           </p>
 
           <p className="text-[#702B36]  font-cormorant-garamond text-[16px] md:text-base mt-2">
